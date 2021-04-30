@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MIDQues1</string>
+    <string name="riddle">I go at RED and stop at Green. What am I?</string>
+    <string name="riddle2">What has a head and a tail but no legs?</string>
+
+    <string name="opta">Keyboard</string>
+    <string name="optb">Coin</string>
+    <string name="optc">Glove</string>
+    <string name="optd">Ice</string>
+
+    <string-array name="dpt_array">
+        <item>SE</item>
+        <item>CS</item>
+        <item>IT</item>
+    </string-array>
+
+</resources>
